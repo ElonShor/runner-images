@@ -3,7 +3,6 @@
 
 **Table of Contents**
 
-- [About](#about)
 - [Available Images](#available-images)
 - [Announcements](#announcements)
 - [Image Definitions](#image-definitions)
